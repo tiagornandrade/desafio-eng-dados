@@ -1,7 +1,5 @@
 <h1>Pergunta: Como escalar essa solução?</h1>
-<br><br>
 <h2>Resposta – Para escalar essa solução, abordaria dois caminhos:</h2>
-<br>
 <h3>
 1 - Pensar na arquitetura para execução da rotina. 
 Penso que poderíamos seguir dois caminhos, usando em infraestrutura On Premise ou em algum provider de Cloud Computing. Para ambas as possibilidades, basicamente adotaria o Apache Spark, para usufruir de seus benefícios de processamento distribuído.
